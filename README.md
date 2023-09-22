@@ -1,5 +1,6 @@
 # logo-generator
-An SVG logo maker
+This project uses Node.js to create a Scalable Vector Graphic (SVG). It uses inquirer to take in input from 
+the user and creates a simple logo under their specified parameters.
 
 ### User Story
 
@@ -27,3 +28,11 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+## Examples
+
+<img src="./examples/square.jpg" alt="A square logo with RTX inside">
+
+<img src="./examples/circle.jpg" alt="A circle logo with PWD inside">
+
+<img src="./examples/triangle.jpg" alt="A triangle logo with WSS inside">
+
