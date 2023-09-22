@@ -29,3 +29,10 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 ## Examples
+
+<img src="./examples/square.jpg" alt="A square logo with RTX inside">
+
+<img src="./examples/circle.jpg" alt="A circle logo with PWD inside">
+
+<img src="./examples/triangle.jpg" alt="A triangle logo with WSS inside">
+
