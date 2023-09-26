@@ -29,8 +29,9 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 ## Video Demonstration
-Below is a link to the demo of the app, or you may scan the QR code
-<a src='https://drive.google.com/file/d/1R1O9I5paMUdKAKVh6ZEOkhui1jU8U5Mq/view'>Click me to view walkthrough!</a>
+Below is a link to the demo of the app, or you may scan the QR code:
+
+<a href='https://drive.google.com/file/d/1R1O9I5paMUdKAKVh6ZEOkhui1jU8U5Mq/view'>Click me to view walkthrough!</a>
 
 <img src="./examples/qr-code.png" alt="A QR code linking to the video demonstration.">
 
