@@ -1,6 +1,6 @@
 # logo-generator
 This project uses Node.js to create a Scalable Vector Graphic (SVG). It uses inquirer to take in input from 
-the user and creates a simple logo under their specified parameters.
+the user and creates a simple logo under their specified parameters. It also uses Jest for testing purposes.
 
 ### User Story
 
